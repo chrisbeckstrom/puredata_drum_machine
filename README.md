@@ -20,3 +20,4 @@ PLANNED FEATURES
 • Modulation matrix so anything can modulate anything else (turning the machine into a semi-modular sound generator)
 • MIDI clock sync
 • LFOs and S&H modules for more modulation fun
+
